@@ -1,3 +1,6 @@
 [submodule "historic_submodules/2024-04-23-01-19cfb0137f0dae7c4549d5689e8b38b81d00a3d4"]
 	path = historic_submodules/2024-04-23-01-19cfb0137f0dae7c4549d5689e8b38b81d00a3d4
 	url = git@github.com:opencoca/git-submodule-test.git
+[submodule "historic_submodules/2024-04-23-02-17fc45136bbda8e893d60f7900d3d19c4f3e2e0f"]
+	path = historic_submodules/2024-04-23-02-17fc45136bbda8e893d60f7900d3d19c4f3e2e0f
+	url = git@github.com:opencoca/git-submodule-test.git
